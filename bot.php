@@ -57,7 +57,7 @@ if ($text == "/start") {
                 'chat_id' =>$chat_id,
                 'text' =>"***$START_MESSAGE
 
-Use*** `/bin xxxxx` ***to check bin on bin-su.***",
+Use*** `/bin xxxxx` ***to check bin .***",
  'parse_mode'=>'MarkDown',
             
         ]);
@@ -89,14 +89,19 @@ bot('sendmessage', [
 
 ➤ Cʀᴇᴅɪᴛ/Dᴇʙɪᴛ : $type
 
-🔺BIN CHECKED FROM DATABASE OF BIN-SU🔻***",
+🔺BIN CHECKED FROM DATABASE OF BIN-SU🔺
+∆∆ THANKS TO @THESTARKARMY13260
+
+~checked by : $username
+First name :$name ***",
 'parse_mode'=>"MarkDown",
 ]);
     }
 else {
 bot('sendmessage', [
                 'chat_id' =>$chat_id,
-                'text' =>"INVALID BIN❌",
+                'text' =>"INVALID BIN❌
+😅😅😅😅Checked by : $name 😅😅😅😅",
                
 ]);
 }
