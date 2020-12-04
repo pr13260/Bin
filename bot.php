@@ -89,7 +89,7 @@ bot('sendmessage', [
 
 ➤ Cʀᴇᴅɪᴛ/Dᴇʙɪᴛ : $type
 
-🔺BIN CHECKED FROM DATABASE OF BIN-SU🔺
+🔺BIN CHECKED BY A PRO 🔺
 ∆∆ THANKS TO @THESTARKARMY13260
 
 ~checked by : $username
